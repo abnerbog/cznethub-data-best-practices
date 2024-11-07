@@ -1,8 +1,9 @@
 ---
 title: Home
+date: 2024-11-07T08:18:00.000Z
 ---
-
 # Critical Zone Collaborative Network Data Best Practices
+
 This repository contains best practices developed by the Critical Zone Collaborative Network (CZ Net) for sharing data related to the Critical Zone.
 
 For overall data sharing and publication guidance, please read the following first:
@@ -20,6 +21,20 @@ For guidance on specific data types, please consultt the following best practice
 ## Contributing Content
 
 Click [here](contribute.md) for instructions on how to suggest edits to or contribute new content to these best practices.
+
+## Data Submission Portal Overview
+
+<div align="center">
+
+\    <video width="560" height="315" controls>
+
+\    <source src="https://github.com/abnerbog/cznethub-data-best-practices/releases/download/test-video-embedding/using-the-data-submission-portal-dsp.mp4" type="video/mp4">
+
+\    </video>
+
+</div>
+
+
 
 ### Contacts
 
@@ -39,12 +54,9 @@ CUAHSI<br>
 
 ## License
 
-The content in this repository is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)][cc-by] license. 
+The content in this repository is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license. 
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 ## Funding and Acknowledgements
 
