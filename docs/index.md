@@ -6,6 +6,10 @@ date: 2024-11-07T08:57:00.000Z
 
 This repository contains best practices developed by the Critical Zone Collaborative Network (CZ Net) for sharing data related to the Critical Zone.
 
+
+
+Test
+
 For overall data sharing and publication guidance, please read the following first:
 
 [Guidance for all CZ Net Data Publication](data_publication_guidance.md)
