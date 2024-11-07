@@ -24,7 +24,7 @@ Click [here](contribute.md) for instructions on how to suggest edits to or contr
 
 ## Using the Data Submission Portal
 
-<img src="site/assets/image-6-.png" alt="Alt text describing the image" width="600px">
+<img src="https://raw.githubusercontent.com/abnerbog/cznethub-data-best-practices/develop/site/assets/image-6-.png" alt="Alt text describing the image" width="600px">
 
 ### Contacts
 
