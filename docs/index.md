@@ -22,19 +22,17 @@ For guidance on specific data types, please consultt the following best practice
 
 Click [here](contribute.md) for instructions on how to suggest edits to or contribute new content to these best practices.
 
-## Data Submission Portal Overview
+## Using the Data Submission Portal
 
-<div align="center">
+To help guide you through the data submission process, please watch the video below.
 
-\    <video width="560" height="315" controls>
+<video controls width="100%">
 
-\    <source src="https://github.com/abnerbog/cznethub-data-best-practices/releases/download/test-video-embedding/using-the-data-submission-portal-dsp.mp4" type="video/mp4">
+\    <source src="/assets/using-the-data-submission-portal-dsp.mp4" type="video/mp4">
 
-\    </video>
+\    Your browser does not support the video tag.
 
-</div>
-
-
+</video>
 
 ### Contacts
 
