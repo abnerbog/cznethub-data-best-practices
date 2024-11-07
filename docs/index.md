@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2024-11-07T08:18:00.000Z
+date: 2024-11-07T08:53:00.000Z
 ---
 # Critical Zone Collaborative Network Data Best Practices
 
