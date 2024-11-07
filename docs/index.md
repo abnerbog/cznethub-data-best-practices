@@ -26,6 +26,16 @@ Click [here](contribute.md) for instructions on how to suggest edits to or contr
 
 <img src="site/assets/image-6-.png" alt="Alt text describing the image" width="600px">
 
+To help guide you through the data submission process, please watch the video below.
+
+<video controls width="100%">
+
+\    <source src="site/assets/using-the-data-submission-portal-dsp.mp4" type="video/mp4">
+
+\    Your browser does not support the video tag.
+
+</video>
+
 ### Contacts
 
 **Jeff Horsburgh**<br>
