@@ -1,8 +1,12 @@
 ---
 title: Sharing and Publishing CZNet Data
+date: 2024-11-07T10:31:00.000Z
 ---
-
 # Best Practices for Sharing and Publishing CZNet Data
+
+Test
+
+
 
 The CZ Hub Team has developed a Data Submission Portal (https://contribute.criticalzone.org) to meet the needs of the CZ Collaborative Network (CZNet). The Data Submission Portal provides guidance regarding which data repositories into which products should be deposited and also provides functionality that allows submission of data to the appropriate repository through the Portal. We recommend that all data and research products be submitted to the appropriate repository through the Portal, where possible. We provide the following additional guidance for submitting data for sharing and publication.
 
@@ -22,7 +26,6 @@ The CZ Hub Team has developed a Data Submission Portal (https://contribute.criti
 * [Use Consistent Missing Data Labels](#use-consistent-missing-data-labels-nodata-values)
 * [Linking Datasets with Publications](#linking-datasets-with-publications)
 * [Potentially Useful Data Management Resources](#potentally-useful-data-management-resources)
-
 
 ## How to Contact Us
 
@@ -44,15 +47,15 @@ Our initial focus in developing the CZ Hub Data Submission Portal and for this d
 2. A unique identifier, which may be a digital object identifier (DOI), and a **persistent URL (the URL does not change)** for accessing the landing page for your dataset/product.
 3. A formal citation for your dataset/product.
 
-You can find directories of data repositories at [https://www.re3data.org](https://www.re3data.org) and [https://fairsharing.org](https://fairsharing.org).
+You can find directories of data repositories at <https://www.re3data.org> and <https://fairsharing.org>.
 
 We provide the general guidance with regard to supported repositories below, but we are happy to discuss any questions you may have and make more specific recommendations:
 
-1. [HydroShare](http://www.hydroshare.org): A general purpose repository for submitting water-science related datasets and models. Submit datasets, models, and other research products that are water-related. This includes time series of hydrologic observations, time series of data from weather stations, geospatial datasets, etc. HydroShare is flexible and allows upload of files having any format. HydroShare also includes a linked JupyterHub server if you wish to upload executable Jupyter Notebooks using Python or R with your content. For information about how to submit to HydroShare, you can access HydroShare’s help system at [https://help.hydroshare.org](https://help.hydroshare.org).
-2. [EarthChem](http://www.earthchem.org): A repository for submitting data derived from material samples such as soil, sediment, pore water, or rock specimens; cores; and other physical objects. Primary focus is on geochemical, geochronological, petrological, and mineralogical data. EarthChem strongly recommends use of data submission templates available on the EarthChem web site ([https://earthchem.org/ecl/templates/](https://earthchem.org/ecl/templates/)) that provide guidance for properly documenting data quality and provenance. Though data can be contributed to the EarthChem Library in a wide range of formats ([https://ecl.earthchem.org/fileformat.php](https://ecl.earthchem.org/fileformat.php)), it always needs to be documented with relevant information regarding the analytical data quality. Submission guidelines for EarthChem can be accessed at [https://www.earthchem.org/ecl/submission-guidelines/](https://www.earthchem.org/ecl/submission-guidelines/). For help, go to [https://earthchem.org/resources/support/earthchem-library-documentation/](https://earthchem.org/resources/support/earthchem-library-documentation/) or write to [info@earthchem.org](mailto:info@earthchem.org). Regardless of whether you submit directly to the EarthChem Library or you submit to the EarthChem Library through the CZNet Data Submission Portal, you shoud review and use the templates and guidance for your data files linked here.
-3. [Zenodo](http://www.zenodo.org): A catch-all repository that may be an appropriate place to upload content that is not appropriate for the other repositories. Zenodo does not limit what you can upload and is not domain specific. For more information about Zenodo and submitting data, see [https://zenodo.org/record/787445](https://zenodo.org/record/787445).
-4. [SESAR](https://www.geosamples.org): A sample registry that catalogs sample metadata, sample images, and other information to make samples more discoverable, accessible, and reusable. SESAR allows you to get an IGSN for your samples, a globally unique identifier that is essential for unambiguously citing samples in datasets and publications ([https://www.igsn.org](https://www.igsn.org)). Use SESAR to submit metadata about your samples and obtain IGSN Global Sample Numbers. Resources for researchers can be accessed at [https://www.geosamples.org/resources/researchers](https://www.geosamples.org/resources/researchers), and tutorials and FAQs can be accessed at [https://www.geosamples.org/resources/help](https://www.geosamples.org/resources/help).
-5. [OpenTopography](https://opentopography.org): A repository that facilitates community access to high-resolution, Earth science-oriented, topography data and related tools and resources. Submit high resolution topography data acquired with lidar and other technologies. A tutorial describing how to submit data to OpenTopography can be accessed at: [https://cloud.sdsc.edu/v1/AUTH_opentopography/www/docs/CommunityDataspaceTutorial.pdf](https://cloud.sdsc.edu/v1/AUTH_opentopography/www/docs/CommunityDataspaceTutorial.pdf).
+1. [HydroShare](http://www.hydroshare.org): A general purpose repository for submitting water-science related datasets and models. Submit datasets, models, and other research products that are water-related. This includes time series of hydrologic observations, time series of data from weather stations, geospatial datasets, etc. HydroShare is flexible and allows upload of files having any format. HydroShare also includes a linked JupyterHub server if you wish to upload executable Jupyter Notebooks using Python or R with your content. For information about how to submit to HydroShare, you can access HydroShare’s help system at <https://help.hydroshare.org>.
+2. [EarthChem](http://www.earthchem.org): A repository for submitting data derived from material samples such as soil, sediment, pore water, or rock specimens; cores; and other physical objects. Primary focus is on geochemical, geochronological, petrological, and mineralogical data. EarthChem strongly recommends use of data submission templates available on the EarthChem web site (<https://earthchem.org/ecl/templates/>) that provide guidance for properly documenting data quality and provenance. Though data can be contributed to the EarthChem Library in a wide range of formats (<https://ecl.earthchem.org/fileformat.php>), it always needs to be documented with relevant information regarding the analytical data quality. Submission guidelines for EarthChem can be accessed at <https://www.earthchem.org/ecl/submission-guidelines/>. For help, go to <https://earthchem.org/resources/support/earthchem-library-documentation/> or write to [info@earthchem.org](mailto:info@earthchem.org). Regardless of whether you submit directly to the EarthChem Library or you submit to the EarthChem Library through the CZNet Data Submission Portal, you shoud review and use the templates and guidance for your data files linked here.
+3. [Zenodo](http://www.zenodo.org): A catch-all repository that may be an appropriate place to upload content that is not appropriate for the other repositories. Zenodo does not limit what you can upload and is not domain specific. For more information about Zenodo and submitting data, see <https://zenodo.org/record/787445>.
+4. [SESAR](https://www.geosamples.org): A sample registry that catalogs sample metadata, sample images, and other information to make samples more discoverable, accessible, and reusable. SESAR allows you to get an IGSN for your samples, a globally unique identifier that is essential for unambiguously citing samples in datasets and publications (<https://www.igsn.org>). Use SESAR to submit metadata about your samples and obtain IGSN Global Sample Numbers. Resources for researchers can be accessed at <https://www.geosamples.org/resources/researchers>, and tutorials and FAQs can be accessed at <https://www.geosamples.org/resources/help>.
+5. [OpenTopography](https://opentopography.org): A repository that facilitates community access to high-resolution, Earth science-oriented, topography data and related tools and resources. Submit high resolution topography data acquired with lidar and other technologies. A tutorial describing how to submit data to OpenTopography can be accessed at: <https://cloud.sdsc.edu/v1/AUTH_opentopography/www/docs/CommunityDataspaceTutorial.pdf>.
 
 If you choose to submit your data or research products to a repository other than the ones listed above, we will still need to know about those submissions. Please register these datasets with the CZNet Data Submission Portal.
 
@@ -73,7 +76,7 @@ We have included links to additional documentation that may assist you in prepar
 
 ## Specific Guidance for CZNet Data and Research Products
 
-The CZ Hub Team is providing a coordinated view of all CZNet data/research products submitted to reputable data repositories via the CZnet Cataloging and Discovery system [https://discover.criticalzone.org](https://discover.criticalzone.org). We are using specific information from the metadata of the resources you submit to find and catalog resources submitted to the different repositories (see below). If the information we request below is missing, we may not be able to find your submitted resource and include it in the CZNet metadata index and discovery tools - or, your resource may not respond to the different search and filtering tools we have provided.
+The CZ Hub Team is providing a coordinated view of all CZNet data/research products submitted to reputable data repositories via the CZnet Cataloging and Discovery system <https://discover.criticalzone.org>. We are using specific information from the metadata of the resources you submit to find and catalog resources submitted to the different repositories (see below). If the information we request below is missing, we may not be able to find your submitted resource and include it in the CZNet metadata index and discovery tools - or, your resource may not respond to the different search and filtering tools we have provided.
 
 **NOTE**: The CZNet Data Submission Portal guides you to provide the following information to be entered for all datasets and products submitted through the Portal. However, we know that some may choose to submit directly to a repository without using the Data Submission Portal, so it is important to specify this information regardless of how or when you submit your data.
 
@@ -89,8 +92,8 @@ To accomplish this, we ask that you do the following, regardless of which reposi
 We will be using “community” and “group” functionality within the different repositories to help group and present data from the cluster projects. When you submit to HydroShare, EarthChem, or Zenodo, we ask that you associate your dataset/product with an appropriate Group or Community, depending on which repository you submit to:
 
 * **HydroShare** - share your dataset/product with your Cluster’s HydroShare Group. We have created a HydroShare “Group” for each thematic cluster project. You can share your HydroShare resource with your Group by clicking on the “Manage Access” button on the resource’s landing page and giving view or edit access to your cluster’s group. This can be done at any time after you create your resource in HydroShare.
-* **EarthChem** - associate your dataset/product with the “Critical Zone” community within EarthChem. See [https://earthchem.org/communities/cznet/](https://earthchem.org/communities/cznet/)
-* **Zenodo** - associate your dataset/product with the “Critical Zone Data and Research Products” community ([https://www.zenodo.org/communities/czdata/](https://www.zenodo.org/communities/czdata/)). When you create a new upload, search for “czdata” or “Critical Zone Data and Research Products” to find the correct community.
+* **EarthChem** - associate your dataset/product with the “Critical Zone” community within EarthChem. See <https://earthchem.org/communities/cznet/>
+* **Zenodo** - associate your dataset/product with the “Critical Zone Data and Research Products” community (<https://www.zenodo.org/communities/czdata/>). When you create a new upload, search for “czdata” or “Critical Zone Data and Research Products” to find the correct community.
 
 ### Guidance for Data/Products Submitted to Other Repositories
 
@@ -117,7 +120,7 @@ One of the most important metadata elements for your data product is the title. 
 * Avoid including metadata in your title that belongs in other metadata fields. Try not to overload your title by concatenating a bunch of information into a cryptic title that nobody will understand.
 * If your data product is specifically tied to a journal publication (i.e., it contains the exact data used in that publication), consider titling your data product similar to "Supporting data for X" where "X" is the title of the related publication. If you anticipate that your data product will be used by multiple journal publications, a more generic title would be better.
 
->Example: Supporting data and tools for "Impact of data temporal resolution on quantifying residential end uses of water"
+> Example: Supporting data and tools for "Impact of data temporal resolution on quantifying residential end uses of water"
 
 ## Create a Descriptive Abstract for your Data Product
 
@@ -135,6 +138,7 @@ The Abstract for your data product is important as it's likely the first (and pe
 Avoid the following when creating your Abstract:
 
 * Overloading the Abstract with metadata that belongs elsewhere. For example:
+
   * Do not put citations for related resources in the Abstract, use the Related Resources metadata instead
   * Put funding agency information in the Credits/Funding Agency metadata rather than in your abstract
 * Going too in depth into the description or structure of your resource - use a readme file for that instead
@@ -156,7 +160,7 @@ Keywords are important metadata that help categorize and describe your data prod
 * Avoid special characters (e.g., characters reserved for programming languages), abbreviations, and contractions. 
 * Do not use punctuation.
 * You may consider keywords that describe observed variables (e.g., "Temperature", "Nitrogen"), and/or methods used to produce the data product. However, avoid using units in your keywords (e.g., use "Discharge" not "Discharge (m3/s)"). 
-* Where you choose keywords describing observed variables, consider selecting them from the ODM2 VariableName controlled vocabulary [http://vocabulary.odm2.org/variablename/](http://vocabulary.odm2.org/variablename/).
+* Where you choose keywords describing observed variables, consider selecting them from the ODM2 VariableName controlled vocabulary <http://vocabulary.odm2.org/variablename/>.
 * You may consider using keywords that have been used by other, similar data products to ensure that they can be discovered together. You can even test this by searching HydroShare, EarthChem, or other repositories using specific keywords to see what is returned before you select your final set of keywords.
 
 Remember - the keywords you use to describe your data product will be part of the metadata that is cataloged and used to enable discovery of your data product. Choose keywords that you think will help people find your data product. Leave all of the other descriptive metadata for the other descriptive metadata elements (e.g., Title, Abstract, etc.).
@@ -195,7 +199,7 @@ We recommend that you provide full funding agency information for each data/rese
 * Agency Name - e.g., "National Science Foundation"
 * Award Title - e.g., "Collaborative Research: Network Hub: Enabling, Supporting, and Communicating Critical Zone Research"
 * Award Numver - e.g., "2012748"
-* Funding Agency URL - e.g., "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012748](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012748)"
+* Funding Agency URL - e.g., "<https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012748>"
 
 For those Thematic Cluster projects that have more than one NSF award, where appropriate we recommend adding multiple funding agency metadata elemements for each award. We also recommend this for products that may have been co-funded by multiple projects and/or agencies. You should include a funding agency element for each one.
 
@@ -205,17 +209,18 @@ The CZNet Catalog and Discovery system uses the NSF award numbers to match your 
 
 We suggest a set of standardized quality control/data levels that can be used to describe data. These data levels are independent of data type. Including a specific data level as part of the metadata for a dataset will help potential users understand how the data can/should be used. Suggested data levels are listed in the following table.
 
-| Level | Definition | Explanation |
-| ----- | ---------- | ----------- |
-| 0 | Raw data | Raw and unprocessed data and data products that have not undergone quality control. Depending on the variable, data type, and data transmission system, raw data may be available within seconds or minutes after the measurements have been made. Examples include real time precipitation, streamflow, and water quality measurements. |
-| 1 | Quality controlled data | Quality controlled data that have passed quality assurance procedures such as routine estimation of timing and sensor calibration or visual inspection and removal of obvious errors. An example is USGS published streamflow records following parsing through USGS quality control procedures. |
-| 2 | Derived products | Derived products that require scientific and technical interpretation and may include multiple-sensor data. An example is basin average precipitation derived from rain gages using an interpolation procedure. |
-| 3 | Interpreted products | Interpreted products that require researcher driven analysis and interpretation, model-based interpretation using other data and/or strong prior assumptions. An example is basin average precipitation derived from the combination of rain gages and radar return data. |
-| 4 | Knowledge products | Knowledge products that require researcher driven scientific interpretation and multidisciplinary data integration and include model-based interpretation using other data and/or strong prior assumptions. An example is percentages of old or new water in a hydrograph inferred from an isotope analysis. |
+| Level | Definition              | Explanation                                                                                                                                                                                                                                                                                                                              |
+| ----- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0     | Raw data                | Raw and unprocessed data and data products that have not undergone quality control. Depending on the variable, data type, and data transmission system, raw data may be available within seconds or minutes after the measurements have been made. Examples include real time precipitation, streamflow, and water quality measurements. |
+| 1     | Quality controlled data | Quality controlled data that have passed quality assurance procedures such as routine estimation of timing and sensor calibration or visual inspection and removal of obvious errors. An example is USGS published streamflow records following parsing through USGS quality control procedures.                                         |
+| 2     | Derived products        | Derived products that require scientific and technical interpretation and may include multiple-sensor data. An example is basin average precipitation derived from rain gages using an interpolation procedure.                                                                                                                          |
+| 3     | Interpreted products    | Interpreted products that require researcher driven analysis and interpretation, model-based interpretation using other data and/or strong prior assumptions. An example is basin average precipitation derived from the combination of rain gages and radar return data.                                                                |
+| 4     | Knowledge products      | Knowledge products that require researcher driven scientific interpretation and multidisciplinary data integration and include model-based interpretation using other data and/or strong prior assumptions. An example is percentages of old or new water in a hydrograph inferred from an isotope analysis.                             |
 
 ## Use Consistent Missing Data Labels (NoData Values)
 
 Missing data labels, or NoData values, are values that you insert into your data to indicate that a value for an observation should exist but for some reason doesn't. Usually, these values are selected such that they are easily recognizable and out of the valid range of data values for whatever the observed variable is. We recommend the following practices for CZNet datasets
+
 * If you use a NoData value, make sure you define it in associated metadata
 * The preferred NoData value for CZNet datasets is -9999
 * Don't mix strings and numeric values in a single data column. For example, don't insert a NoData value of "NA" into a numeric data column.
