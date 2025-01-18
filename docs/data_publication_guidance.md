@@ -1,5 +1,6 @@
 ---
-title: Sharing and Publishing CZNet Data
+title: Sharing and Publishing CZNet Data!
+date: 2025-01-22T12:27:00.000Z
 ---
 
 # Best Practices for Sharing and Publishing CZNet Data
